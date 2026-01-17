@@ -52,4 +52,4 @@ This project was **inspired by a similar Power BI project found online**, which 
 ---
 
 ## Dashboard Preview
-![Dashboard Preview]
+![Dashboard Preview](https://github.com/Farhad-UddinS/blinkit-Grocery-Data-Analysis/blob/main/Screenshot%202026-01-18%20082125.png)
