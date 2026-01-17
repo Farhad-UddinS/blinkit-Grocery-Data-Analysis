@@ -4,8 +4,6 @@
 
 This project focuses on analyzing **BlinkIT grocery sales data** to uncover key insights related to sales performance, outlet types, item categories, and customer purchasing patterns. The goal is to transform raw transactional data into **clear, interactive, and actionable insights** using Power BI.
 
-This repository is created primarily for **team collaboration and knowledge sharing**.
-
 ---
 
 ## 📂 Data Source
